@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="beeb63c4-46f9-4bf6-8cf7-d4a804d70487" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Data/AuthRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/76FF8FE3-4BA0-4932-A677-43B73B26D2D6/10/IHostBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Data/IAuthRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Migrations/20200327114308_Users Table.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5C2CA832-9259-4513-823A-DFD6A44F74D4/62/HMACSHA512.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Migrations/20200327060550_InitialCreate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Data/DataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Migrations/DataContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Controllers/AuthController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/ClientApp/angular.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Dtos/UserForRegisterDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Dtos/UserForLoginDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/ClientApp/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Controllers/WeatherForecastController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CCD71D5C-6409-42FE-B7D4-84249D40542B/1/MvcServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Pages/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Models/WeatherForecast.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AngularWithASP/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/counter/counter.component.ts" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/counter/counter.component.html" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/value/value.component.html" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/value/value.component.ts" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Models/User.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Data/DataContext.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Models/WeatherForecast.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Data/IAuthRepository.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Data/AuthRepository.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Dtos/UserForRegisterDto.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Dtos/UserForLoginDto.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/appsettings.json" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Controllers/AuthController.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Controllers/WeatherForecastController.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZhJgbEXnPbfwMzSYDbOZiEZlPy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+    <property name="ts.external.directory.path" value="C:\Users\User\RiderProjects\AngularWithASP\AngularWithASP\ClientApp\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.AngularWithASP">
+    <configuration name="AngularWithASP" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/AngularWithASP/AngularWithASP.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="AngularWithASP" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AngularWithASP: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/AngularWithASP/AngularWithASP.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="beeb63c4-46f9-4bf6-8cf7-d4a804d70487" name="Default Changelist" comment="" />
+      <created>1585285522099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585285522099</updated>
+      <workItem from="1585285554858" duration="3350000" />
+      <workItem from="1585289031666" duration="1253000" />
+      <workItem from="1585290469846" duration="2757000" />
+      <workItem from="1585300995143" duration="416000" />
+      <workItem from="1585301435943" duration="5479000" />
+      <workItem from="1585309285439" duration="10134000" />
+      <workItem from="1585383719560" duration="291000" />
+      <workItem from="1585387611174" duration="1597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="529" height="466" key="DebuggerActiveHint" timestamp="1585319892546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="529" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1585319892546" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1585323394500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394500" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1585323394500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394500" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1585323394500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394500" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1585323394500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394500" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585323394501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394501" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1585323394500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394500" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1585323394500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394500" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1585323394501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394501" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1585323394501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394501" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1585323394501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394501" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1585323394501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394501" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1585323394501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394501" />
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom" timestamp="1585323394501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394501" />
+    <state width="1877" height="348" key="GridCell.Tab.3.center" timestamp="1585323394501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394501" />
+    <state width="1877" height="348" key="GridCell.Tab.3.left" timestamp="1585323394501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394501" />
+    <state width="1877" height="348" key="GridCell.Tab.3.right" timestamp="1585323394501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394501" />
+    <state width="1877" height="348" key="GridCell.Tab.4.bottom" timestamp="1585323394501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394501" />
+    <state width="1877" height="348" key="GridCell.Tab.4.center" timestamp="1585323394501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394501" />
+    <state width="1877" height="348" key="GridCell.Tab.4.left" timestamp="1585323394501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394501" />
+    <state width="1877" height="348" key="GridCell.Tab.4.right" timestamp="1585323394501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585323394501" />
+    <state x="769" y="211" key="RiderGenerateDialog" timestamp="1585310315025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="211" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585310315025" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1585388351296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585388351296" />
+    <state x="823" y="446" width="348" height="298" key="org.angular.cli.generate" timestamp="1585302683168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="823" y="446" width="348" height="298" key="org.angular.cli.generate/0.0.1920.1040@0.0.1920.1040" timestamp="1585302683168" />
+  </component>
+</project>
