@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.3\config\extensions" t="IncludeRecursive" />
     <e p="C:\Users\User\.Rider2019.3\config\scratches" t="IncludeRecursive" />
     <e p="C:\Users\User\.Rider2019.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\User\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_AngularWithASP.-418881840.00" t="ExcludeRecursive" />
@@ -52,6 +54,7 @@
             <e p="source-list-map" t="IncludeRecursive" />
           </e>
           <e p="node_modules\ajv" t="IncludeRecursive" />
+          <e p="node_modules\alertifyjs" t="IncludeRecursive" />
           <e p="node_modules\arg" t="IncludeRecursive" />
           <e p="node_modules\aspnet-prerendering" t="IncludeRecursive" />
           <e p="node_modules\blocking-proxy" t="IncludeRecursive" />
@@ -153,15 +156,34 @@
           <e p="README.md" t="Include" />
           <e p="src" t="Include">
             <e p="app" t="Include">
+              <e p="_services" t="Include">
+                <e p="alertify.service.spec.ts" t="Include" />
+                <e p="alertify.service.ts" t="Include" />
+                <e p="auth.service.spec.ts" t="Include" />
+                <e p="auth.service.ts" t="Include" />
+                <e p="error.interceptor.ts" t="Include" />
+              </e>
               <e p="app.component.html" t="Include" />
               <e p="app.component.ts" t="Include" />
               <e p="app.module.ts" t="Include" />
               <e p="app.server.module.ts" t="Include" />
-              <e p="value" t="Include">
-                <e p="value.component.css" t="Include" />
-                <e p="value.component.html" t="Include" />
-                <e p="value.component.spec.ts" t="Include" />
-                <e p="value.component.ts" t="Include" />
+              <e p="home" t="Include">
+                <e p="home.component.css" t="Include" />
+                <e p="home.component.html" t="Include" />
+                <e p="home.component.spec.ts" t="Include" />
+                <e p="home.component.ts" t="Include" />
+              </e>
+              <e p="nav" t="Include">
+                <e p="nav.component.css" t="Include" />
+                <e p="nav.component.html" t="Include" />
+                <e p="nav.component.spec.ts" t="Include" />
+                <e p="nav.component.ts" t="Include" />
+              </e>
+              <e p="register" t="Include">
+                <e p="register.component.css" t="Include" />
+                <e p="register.component.html" t="Include" />
+                <e p="register.component.spec.ts" t="Include" />
+                <e p="register.component.ts" t="Include" />
               </e>
             </e>
             <e p="assets" t="Include">
@@ -184,6 +206,7 @@
           </e>
           <e p="tsconfig.json" t="Include" />
           <e p="tslint.json" t="Include" />
+          <e p="typings.d.ts" t="Include" />
         </e>
         <e p="Controllers" t="Include">
           <e p="AuthController.cs" t="Include" />
@@ -197,6 +220,9 @@
         <e p="Dtos" t="Include">
           <e p="UserForLoginDto.cs" t="Include" />
           <e p="UserForRegisterDto.cs" t="Include" />
+        </e>
+        <e p="Helpers" t="Include">
+          <e p="Extensions.cs" t="Include" />
         </e>
         <e p="Migrations" t="Include">
           <e p="20200327060550_InitialCreate.cs" t="Include" />
