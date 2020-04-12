@@ -25,8 +25,13 @@
         <Content Remove="$(SpaRoot)**" />
         <None Remove="$(SpaRoot)**" />
         <None Include="$(SpaRoot)**" Exclude="$(SpaRoot)node_modules\**" />
+        <None Include="ClientApp\src\app\routes.ts" />
         <None Include="ClientApp\src\app\_services\error.interceptor.ts" />
         <None Include="ClientApp\typings.d.ts" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="ClientApp\src\app\_guards" />
     </ItemGroup>
 
     <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">

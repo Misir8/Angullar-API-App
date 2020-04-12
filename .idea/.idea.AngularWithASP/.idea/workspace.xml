@@ -2,24 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beeb63c4-46f9-4bf6-8cf7-d4a804d70487" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/typings.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AngularWithASP/Helpers/Extensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/routes.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AngularWithASP/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AngularWithASP/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AngularWithASP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AngularWithASP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AngularWithASP/AngularWithASP.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/AngularWithASP.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/auth.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/value/value.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/error.interceptor.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/value/value.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/value/value.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/value/value.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/Controllers/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/Controllers/WeatherForecastController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/Startup.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,31 +47,29 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Data/AuthRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/Data/IAuthRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/Migrations/20200327114308_Users Table.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5C2CA832-9259-4513-823A-DFD6A44F74D4/62/HMACSHA512.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/Migrations/20200327060550_InitialCreate.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/Migrations/DataContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/Helpers/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CCD71D5C-6409-42FE-B7D4-84249D40542B/1/MvcServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/appsettings.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/Models/WeatherForecast.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/76FF8FE3-4BA0-4932-A677-43B73B26D2D6/10/IHostBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Data/DataContext.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/Controllers/AuthController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Dtos/UserForRegisterDto.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/ClientApp/angular.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Dtos/UserForLoginDto.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/ClientApp/package.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/Controllers/WeatherForecastController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/ClientApp/tsconfig.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Pages/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Controllers/AuthController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Models/WeatherForecast.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Controllers/WeatherForecastController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Helpers/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/ClientApp/tsconfig.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/package-lock.json" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Migrations/20200327060550_InitialCreate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/ClientApp/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Migrations/20200327114308_Users Table.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Migrations/DataContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/ClientApp/angular.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Data/IAuthRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -97,25 +91,31 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/rest-api_2.http" />
         <option value="restClient/response75.txt" />
         <option value="restClient/response80.txt" />
-        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/AngularWithASP/Controllers/WeatherForecastController.cs" />
-        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.html" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/home/home.component.html" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/home/home.component.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/register/register.component.html" />
         <option value="$PROJECT_DIR$/AngularWithASP/Helpers/Extensions.cs" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/error.inerceptor.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/Startup.cs" />
-        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/auth.service.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/Controllers/AuthController.cs" />
-        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/error.interceptor.ts" />
-        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/styles.css" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/typings.d.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/tsconfig.json" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/alertify.service.ts" />
-        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/register/register.component.ts" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/auth.service.ts" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.css" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/styles.css" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/index.html" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/package.json" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.html" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.ts" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_guards/auth.guard.ts" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/routes.ts" />
       </list>
     </option>
   </component>
@@ -128,7 +128,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="sqlserver&#10;mysql&#10;sqlserver.jtds" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -609,6 +611,18 @@
       <workItem from="1586112728043" duration="453000" />
       <workItem from="1586113260046" duration="1423000" />
       <workItem from="1586114950462" duration="2320000" />
+      <workItem from="1586251279856" duration="5586000" />
+      <workItem from="1586260989005" duration="936000" />
+      <workItem from="1586355289258" duration="830000" />
+      <workItem from="1586356151296" duration="3064000" />
+      <workItem from="1586434020789" duration="147000" />
+      <workItem from="1586518427889" duration="3257000" />
+      <workItem from="1586536941619" duration="478000" />
+      <workItem from="1586537450616" duration="1233000" />
+      <workItem from="1586538797982" duration="950000" />
+      <workItem from="1586548967846" duration="897000" />
+      <workItem from="1586594308550" duration="71000" />
+      <workItem from="1586687413716" duration="2132000" />
     </task>
     <servers />
   </component>
@@ -635,10 +649,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="617" y="137" key="#AngularWithASP/0.0.1920.1040@0.0.1920.1040" timestamp="1586113005914" />
-    <state x="552" y="179" key="#Inspection_severity" timestamp="1586092044577">
+    <state x="552" y="179" key="#Inspection_severity" timestamp="1586522014997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="179" key="#Inspection_severity/0.0.1920.1040@0.0.1920.1040" timestamp="1586092044577" />
+    <state x="552" y="179" key="#Inspection_severity/0.0.1920.1040@0.0.1920.1040" timestamp="1586522014997" />
     <state x="552" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585493953410">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -651,22 +665,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="529" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1585319892546" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1586117328353">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1586690044828">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586117328353" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1586117328352">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586690044828" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1586690044827">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586117328352" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1586117328352">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586690044827" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1586690044827">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586117328352" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1586117328353">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586690044827" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1586690044828">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586117328353" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586690044828" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585842225124">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -751,10 +765,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="800" y="163" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585493684414" />
-    <state x="660" y="222" width="348" height="298" key="org.angular.cli.generate" timestamp="1586114752229">
+    <state x="660" y="222" width="348" height="298" key="org.angular.cli.generate" timestamp="1586538722713">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="660" y="222" width="348" height="298" key="org.angular.cli.generate/0.0.1920.1040@0.0.1920.1040" timestamp="1586114752229" />
+    <state x="660" y="222" width="348" height="298" key="org.angular.cli.generate/0.0.1920.1040@0.0.1920.1040" timestamp="1586538722713" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585420249797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
