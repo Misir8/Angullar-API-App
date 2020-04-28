@@ -158,12 +158,17 @@
               <e p="_guards" t="Include">
                 <e p="auth.guard.ts" t="Include" />
               </e>
+              <e p="_models" t="Include">
+                <e p="photo.ts" t="Include" />
+                <e p="user.ts" t="Include" />
+              </e>
               <e p="_services" t="Include">
                 <e p="alertify.service.spec.ts" t="Include" />
                 <e p="alertify.service.ts" t="Include" />
                 <e p="auth.service.spec.ts" t="Include" />
                 <e p="auth.service.ts" t="Include" />
                 <e p="error.interceptor.ts" t="Include" />
+                <e p="user.service.ts" t="Include" />
               </e>
               <e p="app.component.html" t="Include" />
               <e p="app.component.ts" t="Include" />
@@ -231,18 +236,27 @@
         </e>
         <e p="Controllers" t="Include">
           <e p="AuthController.cs" t="Include" />
+          <e p="UsersController.cs" t="Include" />
           <e p="WeatherForecastController.cs" t="Include" />
         </e>
         <e p="Data" t="Include">
           <e p="AuthRepository.cs" t="Include" />
           <e p="DataContext.cs" t="Include" />
+          <e p="DatingRepository.cs" t="Include" />
           <e p="IAuthRepository.cs" t="Include" />
+          <e p="IDatingRepository.cs" t="Include" />
+          <e p="Seed.cs" t="Include" />
+          <e p="UserSeedData.json" t="Include" />
         </e>
         <e p="Dtos" t="Include">
+          <e p="PhotosForDetailedDto.cs" t="Include" />
+          <e p="UserForDetailedDto.cs" t="Include" />
+          <e p="UserForListDto.cs" t="Include" />
           <e p="UserForLoginDto.cs" t="Include" />
           <e p="UserForRegisterDto.cs" t="Include" />
         </e>
         <e p="Helpers" t="Include">
+          <e p="AutoMapperProfiles.cs" t="Include" />
           <e p="Extensions.cs" t="Include" />
         </e>
         <e p="Migrations" t="Include">
@@ -250,9 +264,14 @@
           <e p="20200327060550_InitialCreate.Designer.cs" t="Include" />
           <e p="20200327114308_Users Table.cs" t="Include" />
           <e p="20200327114308_Users Table.Designer.cs" t="Include" />
+          <e p="20200413133221_extendingUserClass.cs" t="Include" />
+          <e p="20200413133221_extendingUserClass.Designer.cs" t="Include" />
+          <e p="20200413135008_ExtendingPhotoClass.cs" t="Include" />
+          <e p="20200413135008_ExtendingPhotoClass.Designer.cs" t="Include" />
           <e p="DataContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
+          <e p="Photo.cs" t="Include" />
           <e p="User.cs" t="Include" />
           <e p="WeatherForecast.cs" t="Include" />
         </e>

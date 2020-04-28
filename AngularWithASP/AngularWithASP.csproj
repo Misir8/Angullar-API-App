@@ -13,6 +13,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
         <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.3" />
         <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="3.1.1" />
         <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0-preview.2.20120.8" />
@@ -26,7 +27,10 @@
         <None Remove="$(SpaRoot)**" />
         <None Include="$(SpaRoot)**" Exclude="$(SpaRoot)node_modules\**" />
         <None Include="ClientApp\src\app\routes.ts" />
+        <None Include="ClientApp\src\app\_models\photo.ts" />
+        <None Include="ClientApp\src\app\_models\user.ts" />
         <None Include="ClientApp\src\app\_services\error.interceptor.ts" />
+        <None Include="ClientApp\src\app\_services\user.service.ts" />
         <None Include="ClientApp\typings.d.ts" />
     </ItemGroup>
 

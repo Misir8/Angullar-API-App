@@ -2,20 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beeb63c4-46f9-4bf6-8cf7-d4a804d70487" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_models/photo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_models/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/user.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWithASP/Controllers/UsersController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWithASP/Data/DatingRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWithASP/Data/IDatingRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWithASP/Data/Seed.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWithASP/Data/UserSeedData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWithASP/Dtos/PhotosForDetailedDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWithASP/Dtos/UserForDetailedDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWithASP/Dtos/UserForListDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWithASP/Helpers/AutoMapperProfiles.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWithASP/Models/Photo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AngularWithASP/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AngularWithASP/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AngularWithASP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AngularWithASP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AngularWithASP/AngularWithASP.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/AngularWithASP.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/auth.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/member-list/member-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/member-list/member-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/member-list/member-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/member-list/member-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularWithASP/Data/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/Data/DataContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularWithASP/Helpers/Extensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/Helpers/Extensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularWithASP/Migrations/DataContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/Migrations/DataContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularWithASP/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularWithASP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularWithASP/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/Startup.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,42 +64,42 @@
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Dtos/UserForRegisterDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Dtos/UserForLoginDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Models/Photo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Pages/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Controllers/AuthController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Models/WeatherForecast.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Controllers/WeatherForecastController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Migrations/20200413135008_ExtendingPhotoClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Helpers/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Migrations/20200413133221_extendingUserClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Data/UserSeedData.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/appsettings.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/ClientApp/tsconfig.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/package-lock.json" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/Migrations/20200327060550_InitialCreate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Dtos/UserForListDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/ClientApp/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Dtos/UserForDetailedDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Data/IDatingRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/ClientApp/angular.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Dtos/PhotosForDetailedDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Migrations/20200327060550_InitialCreate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Migrations/20200327114308_Users Table.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Migrations/DataContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/ClientApp/angular.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Controllers/UsersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Data/DatingRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Data/Seed.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AngularWithASP/Data/IAuthRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/AngularWithASP/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AngularWithASP/Helpers/AutoMapperProfiles.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AngularWithASP/Properties/launchSettings.json" />
-        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/counter/counter.component.ts" />
-        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/counter/counter.component.html" />
-        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/value/value.component.html" />
-        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/value/value.component.ts" />
-        <option value="$PROJECT_DIR$/AngularWithASP/Models/User.cs" />
-        <option value="$PROJECT_DIR$/AngularWithASP/Data/DataContext.cs" />
-        <option value="$PROJECT_DIR$/AngularWithASP/Models/WeatherForecast.cs" />
-        <option value="$PROJECT_DIR$/AngularWithASP/Data/IAuthRepository.cs" />
-        <option value="$PROJECT_DIR$/AngularWithASP/Data/AuthRepository.cs" />
-        <option value="$PROJECT_DIR$/AngularWithASP/Dtos/UserForRegisterDto.cs" />
         <option value="$PROJECT_DIR$/AngularWithASP/Dtos/UserForLoginDto.cs" />
         <option value="$PROJECT_DIR$/AngularWithASP/appsettings.json" />
-        <option value="$PROJECT_DIR$/AngularWithASP/.gitignore" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/rest-api_2.http" />
         <option value="restClient/response75.txt" />
         <option value="restClient/response80.txt" />
@@ -95,16 +107,13 @@
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/home/home.component.html" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/home/home.component.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/register/register.component.html" />
-        <option value="$PROJECT_DIR$/AngularWithASP/Helpers/Extensions.cs" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/error.inerceptor.ts" />
-        <option value="$PROJECT_DIR$/AngularWithASP/Startup.cs" />
         <option value="$PROJECT_DIR$/AngularWithASP/Controllers/AuthController.cs" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/error.interceptor.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/typings.d.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/tsconfig.json" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/alertify.service.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/register/register.component.ts" />
-        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/auth.service.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.css" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/styles.css" />
@@ -116,6 +125,30 @@
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_guards/auth.guard.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/routes.ts" />
+        <option value="$PROJECT_DIR$/AngularWithASP/.gitignore" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Models/User.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Data/DataContext.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Models/Photo.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Data/UserSeedData.json" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Data/Seed.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Program.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Data/IDatingRepository.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Data/DatingRepository.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Controllers/UserController.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Dtos/UserForListDto.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Startup.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Controllers/UsersController.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Dtos/PhotosForDetailedDto.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Dtos/UserForDetailedDto.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Helpers/Extensions.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Helpers/AutoMapperProfiles.cs" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_models/photo.ts" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_models/user.ts" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/environments/environment.ts" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/auth.service.ts" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/user.service.ts" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/member-list/member-list.component.html" />
+        <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/member-list/member-list.component.ts" />
       </list>
     </option>
   </component>
@@ -531,7 +564,7 @@
     </option>
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.AngularWithASP">
-    <configuration name="All in rest-api_9" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_9.http">
+    <configuration name="All in rest-api_9" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_9.http">
       <method v="2" />
     </configuration>
     <configuration name="AngularWithASP" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
@@ -564,11 +597,6 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="HTTP Request.All in rest-api_9" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -622,7 +650,18 @@
       <workItem from="1586538797982" duration="950000" />
       <workItem from="1586548967846" duration="897000" />
       <workItem from="1586594308550" duration="71000" />
-      <workItem from="1586687413716" duration="2132000" />
+      <workItem from="1586687413716" duration="2850000" />
+      <workItem from="1586782352593" duration="810000" />
+      <workItem from="1586783379672" duration="1170000" />
+      <workItem from="1586784632739" duration="2681000" />
+      <workItem from="1586850459553" duration="2584000" />
+      <workItem from="1586858789442" duration="1309000" />
+      <workItem from="1586889614023" duration="3650000" />
+      <workItem from="1587125043797" duration="1215000" />
+      <workItem from="1587140837410" duration="3384000" />
+      <workItem from="1587224762355" duration="1551000" />
+      <workItem from="1587382231014" duration="229000" />
+      <workItem from="1587398222085" duration="3209000" />
     </task>
     <servers />
   </component>
@@ -645,10 +684,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="617" y="137" key="#AngularWithASP" timestamp="1586113005914">
+    <state x="617" y="137" key="#AngularWithASP" timestamp="1586783343270">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="617" y="137" key="#AngularWithASP/0.0.1920.1040@0.0.1920.1040" timestamp="1586113005914" />
+    <state x="617" y="137" key="#AngularWithASP/0.0.1920.1040@0.0.1920.1040" timestamp="1586783343270" />
     <state x="552" y="179" key="#Inspection_severity" timestamp="1586522014997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -665,22 +704,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="529" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1585319892546" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1586690044828">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1587401503199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586690044828" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1586690044827">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587401503199" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1587401503198">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586690044827" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1586690044827">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587401503198" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1587401503198">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586690044827" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1586690044828">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587401503198" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1587401503199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586690044828" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587401503199" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585842225124">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -753,10 +792,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="325" key="RestClientTextRequest/0.0.1920.1040@0.0.1920.1040" timestamp="1585491755050" />
-    <state x="769" y="211" key="RiderGenerateDialog" timestamp="1585310315025">
+    <state x="769" y="211" key="RiderGenerateDialog" timestamp="1586891741668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="769" y="211" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585310315025" />
+    <state x="769" y="211" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586891741668" />
     <state x="461" y="163" key="SettingsEditor" timestamp="1585930613969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -765,10 +804,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="800" y="163" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585493684414" />
-    <state x="660" y="222" width="348" height="298" key="org.angular.cli.generate" timestamp="1586538722713">
+    <state x="660" y="222" width="348" height="298" key="org.angular.cli.generate" timestamp="1587398840776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="660" y="222" width="348" height="298" key="org.angular.cli.generate/0.0.1920.1040@0.0.1920.1040" timestamp="1586538722713" />
+    <state x="660" y="222" width="348" height="298" key="org.angular.cli.generate/0.0.1920.1040@0.0.1920.1040" timestamp="1587398840776" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585420249797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
