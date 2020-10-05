@@ -49,147 +49,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="beeb63c4-46f9-4bf6-8cf7-d4a804d70487" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ClientApp/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/_guards/auth.guard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/_models/photo.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/_models/user.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/_services/alertify.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/_services/alertify.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/_services/auth.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/_services/auth.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/_services/error.interceptor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/_services/user.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/app.server.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/home/home.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/home/home.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/home/home.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/home/home.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/lists/lists.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/lists/lists.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/lists/lists.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/lists/lists.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/members/member-list/member-list.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/members/member-list/member-list.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/members/member-list/member-list.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/members/member-list/member-list.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/messages/messages.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/messages/messages.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/messages/messages.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/messages/messages.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/nav/nav.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/nav/nav.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/nav/nav.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/nav/nav.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/register/register.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/register/register.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/register/register.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/register/register.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/routes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/tsconfig.server.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientApp/typings.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AngularWithASP/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AngularWithASP/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AngularWithASP/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AngularWithASP/.idea/projectSettingsUpdater.xml" afterDir="false" />
+    <list default="true" id="beeb63c4-46f9-4bf6-8cf7-d4a804d70487" name="Default Changelist" comment="Added member-card and jwt options">
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/members/member-card/member-card.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/members/member-card/member-card.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/members/member-card/member-card.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/members/member-details/member-details.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/members/member-details/member-details.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientApp/src/app/members/member-details/member-details.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AngularWithASP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AngularWithASP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/AngularWithASP.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/AngularWithASP.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/e2e/tsconfig.e2e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_guards/auth.guard.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_models/photo.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_models/user.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/alertify.service.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/alertify.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/auth.service.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/auth.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/error.interceptor.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/user.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/app.server.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/home/home.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/home/home.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/home/home.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/home/home.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/lists/lists.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/lists/lists.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/lists/lists.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/lists/lists.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/member-list/member-list.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/member-list/member-list.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/member-list/member-list.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/member-list/member-list.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/messages/messages.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/messages/messages.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/messages/messages.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/messages/messages.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/nav/nav.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/register/register.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/register/register.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/register/register.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/register/register.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/routes.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/tsconfig.server.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/src/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/ClientApp/typings.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/Controllers/WeatherForecastController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/Data/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/Data/DataContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/Models/WeatherForecast.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/Properties/launchSettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AngularWithASP/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularWithASP/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/AngularWithASP/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/nav/nav.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/app/nav/nav.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/app/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -303,9 +178,9 @@
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/user.service.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/member-list/member-list.component.ts" />
         <option value="$PROJECT_DIR$/AngularWithASP/ClientApp/src/app/_services/error.interceptor.ts" />
-        <option value="$PROJECT_DIR$/AngularWithASP/Startup.cs" />
         <option value="$PROJECT_DIR$/AngularWithASP/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/AngularWithASP/AngularWithASP.csproj" />
+        <option value="$PROJECT_DIR$/AngularWithASP/Startup.cs" />
       </list>
     </option>
   </component>
@@ -817,8 +692,19 @@
       <workItem from="1587398222085" duration="3209000" />
       <workItem from="1600910066433" duration="1255000" />
       <workItem from="1600911503926" duration="2121000" />
-      <workItem from="1600979334024" duration="1620000" />
+      <workItem from="1600979334024" duration="1781000" />
+      <workItem from="1601029431682" duration="1562000" />
+      <workItem from="1601134305925" duration="2000" />
+      <workItem from="1601899592845" duration="657000" />
     </task>
+    <task id="LOCAL-00001" summary="Added member-card and jwt options">
+      <created>1600983295875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600983295875</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -840,24 +726,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added member-card and jwt options" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added member-card and jwt options" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1600983246704">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601038238623">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600983246704" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1600983246704">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601038238623" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601038238623">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600983246704" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1600983246704">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601038238623" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601038238623">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600983246704" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1600983246704">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601038238623" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601038238623">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600983246704" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601038238623" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600983304413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600983304413" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600981277811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
